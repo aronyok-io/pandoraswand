@@ -76,9 +76,15 @@ Future hardware design files may use a dedicated open-hardware license.
 ✦ Repository Structure
 
 pandoraswand/
-├── firmware/       # PandoraOS
+
+├── firmware/ # PandoraOS
+
 ├── hardware/       # Schematics & PCB
+
 ├── enclosure/      # CAD / enclosure designs
+
 ├── docs/           # Documentation
+
 ├── examples/       # Experiments
+
 └── README.md
